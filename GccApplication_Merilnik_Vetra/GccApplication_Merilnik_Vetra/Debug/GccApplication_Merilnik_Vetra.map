@@ -1,0 +1,1431 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              main.o (__divmodhi4)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              systime.o (__udivmodsi4)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o (exit)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              ugui.o (__tablejump2__)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              LCD_Ili9341.o (__do_copy_data)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              ADconverter.o (__do_clear_bss)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              systime.o (__umulhisi3)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              systime.o (__muluhisi3)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              LCD_Ili9341.o (__iob)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                              main.o (sprintf)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o) (vfprintf)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+                              main.o (eeprom_read_word)
+D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+                              main.o (eeprom_write_word)
+D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+                              D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o) (eeprom_read_blraw)
+D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+                              D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o) (eeprom_write_byte)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o) (__prologue_saves__)
+d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+ILI9341_rotation    0x1               LCD_Ili9341.o
+lastkey             0x1               kbd.o
+gui                 0x43              LCD_Ili9341.o
+wind                0x2               main.o
+key                 0x2               ADconverter.o
+TIME_STATUS         0x1               systime.o
+lastreleased        0x1               kbd.o
+__iob               0x6               d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+systick             0x4               systime.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .bss           0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .text          0x00000000        0x0 ADconverter.o
+ .data          0x00000000        0x0 ADconverter.o
+ .bss           0x00000000        0x0 ADconverter.o
+ .text          0x00000000        0x0 kbd.o
+ .data          0x00000000        0x0 kbd.o
+ .bss           0x00000000        0x0 kbd.o
+ .text.KBD_isKeyStatePressed
+                0x00000000       0x1c kbd.o
+ .text.KBD_isKeyStateReleased
+                0x00000000       0x18 kbd.o
+ .text.KBD_GetReleasedKey
+                0x00000000        0xa kbd.o
+ .text.KBD_flush
+                0x00000000        0xa kbd.o
+ .text          0x00000000        0x0 Kite_indicators.o
+ .data          0x00000000        0x0 Kite_indicators.o
+ .bss           0x00000000        0x0 Kite_indicators.o
+ .text.OFF_All_Kite_Indicator_C
+                0x00000000       0xae Kite_indicators.o
+ .text          0x00000000        0x0 LCD_Ili9341.o
+ .data          0x00000000        0x0 LCD_Ili9341.o
+ .bss           0x00000000        0x0 LCD_Ili9341.o
+ .text.ILI9341_ReadCmd8
+                0x00000000       0x3a LCD_Ili9341.o
+ .text.ILI9341_drawFastVLine
+                0x00000000       0x74 LCD_Ili9341.o
+ .text.ILI9341_drawFastHLine
+                0x00000000       0x74 LCD_Ili9341.o
+ .text.ILI9341_fillScreen
+                0x00000000       0x28 LCD_Ili9341.o
+ .text.ILI9341_invertDisplay
+                0x00000000       0x10 LCD_Ili9341.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text.NVM_save_word
+                0x00000000        0x6 main.o
+ .text.NVM_load_word
+                0x00000000        0x6 main.o
+ .text          0x00000000        0x0 systime.o
+ .data          0x00000000        0x0 systime.o
+ .bss           0x00000000        0x0 systime.o
+ .text.GetSysTick
+                0x00000000       0x18 systime.o
+ .text.GetSysTick_us
+                0x00000000       0x68 systime.o
+ .text.Has_X_MillisecondsPassed
+                0x00000000       0xd2 systime.o
+ .text.Has_X_MicrosecondsPassed
+                0x00000000       0xd2 systime.o
+ .text.isF1msSet
+                0x00000000        0xe systime.o
+ .text.ClrF1ms  0x00000000       0x12 systime.o
+ .text.HasOneMillisecondPassed
+                0x00000000       0x10 systime.o
+ .text          0x00000000        0x0 ugui.o
+ .data          0x00000000        0x0 ugui.o
+ .bss           0x00000000        0x0 ugui.o
+ .text.UG_SelectGUI
+                0x00000000        0xe ugui.o
+ .text.UG_FillScreen
+                0x00000000       0x30 ugui.o
+ .text.UG_DrawMesh
+                0x00000000       0x90 ugui.o
+ .text.UG_DrawPixel
+                0x00000000       0x12 ugui.o
+ .text.UG_DrawCircle
+                0x00000000      0x1c8 ugui.o
+ .text.UG_FillRoundFrame
+                0x00000000      0x22c ugui.o
+ .text.UG_DrawFrame
+                0x00000000       0x64 ugui.o
+ .text.UG_FillCircle
+                0x00000000      0x154 ugui.o
+ .text.UG_SetBackcolor
+                0x00000000        0xe ugui.o
+ .text.UG_GetXDim
+                0x00000000        0xe ugui.o
+ .text.UG_GetYDim
+                0x00000000        0xe ugui.o
+ .text.UG_FontSetHSpace
+                0x00000000        0xc ugui.o
+ .text.UG_FontSetVSpace
+                0x00000000        0xc ugui.o
+ .text._UG_PutText
+                0x00000000      0x29a ugui.o
+ .text._UG_GetFreeObject
+                0x00000000       0x44 ugui.o
+ .text._UG_SearchObject
+                0x00000000       0x44 ugui.o
+ .text._UG_DeleteObject
+                0x00000000       0x30 ugui.o
+ .text._UG_ProcessTouchData
+                0x00000000       0xe2 ugui.o
+ .text._UG_UpdateObjects
+                0x00000000       0x8e ugui.o
+ .text._UG_HandleEvents
+                0x00000000       0xc6 ugui.o
+ .text._UG_DrawObjectFrame
+                0x00000000      0x1c0 ugui.o
+ .text._UG_SendObjectPrerenderEvent
+                0x00000000       0x4a ugui.o
+ .text._UG_SendObjectPostrenderEvent
+                0x00000000       0x4c ugui.o
+ .text.UG_DriverDisable
+                0x00000000       0x2e ugui.o
+ .text.UG_WaitForUpdate
+                0x00000000       0x10 ugui.o
+ .text.UG_DrawBMP
+                0x00000000       0xc2 ugui.o
+ .text.UG_TouchUpdate
+                0x00000000       0x14 ugui.o
+ .text.UG_WindowCreate
+                0x00000000      0x10c ugui.o
+ .text.UG_WindowDelete
+                0x00000000       0x50 ugui.o
+ .text.UG_WindowShow
+                0x00000000       0x26 ugui.o
+ .text.UG_WindowResize
+                0x00000000      0x188 ugui.o
+ .text.UG_WindowSetForeColor
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetBackColor
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetTitleTextColor
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetTitleColor
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetTitleInactiveTextColor
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetTitleInactiveColor
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetTitleText
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetTitleTextFont
+                0x00000000       0x4a ugui.o
+ .text.UG_WindowSetTitleTextHSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowSetTitleTextVSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowSetTitleTextAlignment
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowSetTitleHeight
+                0x00000000       0x20 ugui.o
+ .text.UG_WindowSetXStart
+                0x00000000       0x3e ugui.o
+ .text.UG_WindowSetYStart
+                0x00000000       0x40 ugui.o
+ .text.UG_WindowSetXEnd
+                0x00000000       0x40 ugui.o
+ .text.UG_WindowSetYEnd
+                0x00000000       0x40 ugui.o
+ .text.UG_WindowSetStyle
+                0x00000000       0x40 ugui.o
+ .text.UG_WindowGetForeColor
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetBackColor
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetTitleTextColor
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetTitleColor
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowAlert
+                0x00000000       0x40 ugui.o
+ .text.UG_WindowGetTitleInactiveTextColor
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetTitleInactiveColor
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetTitleText
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetTitleTextFont
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetTitleTextHSpace
+                0x00000000       0x18 ugui.o
+ .text.UG_WindowGetTitleTextVSpace
+                0x00000000       0x18 ugui.o
+ .text.UG_WindowGetTitleTextAlignment
+                0x00000000       0x18 ugui.o
+ .text.UG_WindowGetTitleHeight
+                0x00000000       0x18 ugui.o
+ .text.UG_WindowGetXStart
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetYStart
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetXEnd
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetYEnd
+                0x00000000       0x1e ugui.o
+ .text.UG_WindowGetStyle
+                0x00000000       0x18 ugui.o
+ .text.UG_WindowGetArea
+                0x00000000       0xa4 ugui.o
+ .text._UG_ButtonUpdate
+                0x00000000      0x304 ugui.o
+ .text._UG_CheckboxUpdate
+                0x00000000      0x692 ugui.o
+ .text._UG_TextboxUpdate
+                0x00000000      0x1c8 ugui.o
+ .text._UG_ImageUpdate
+                0x00000000      0x134 ugui.o
+ .text.UG_WindowGetInnerWidth
+                0x00000000       0x3a ugui.o
+ .text.UG_WindowGetOuterWidth
+                0x00000000       0x2c ugui.o
+ .text.UG_WindowGetInnerHeight
+                0x00000000       0x44 ugui.o
+ .text.UG_WindowGetOuterHeight
+                0x00000000       0x2c ugui.o
+ .text._UG_WindowDrawTitle
+                0x00000000      0x14c ugui.o
+ .text._UG_WindowUpdate
+                0x00000000      0x10a ugui.o
+ .text.UG_Update
+                0x00000000       0xf8 ugui.o
+ .text._UG_WindowClear
+                0x00000000       0x84 ugui.o
+ .text.UG_WindowHide
+                0x00000000       0xb8 ugui.o
+ .rodata.str1.1
+                0x00000000        0x2 ugui.o
+ .text.UG_ButtonCreate
+                0x00000000       0xee ugui.o
+ .text.UG_ButtonDelete
+                0x00000000        0xa ugui.o
+ .text.UG_ButtonShow
+                0x00000000       0x1c ugui.o
+ .text.UG_ButtonHide
+                0x00000000       0x2c ugui.o
+ .text.UG_ButtonSetForeColor
+                0x00000000       0x32 ugui.o
+ .text.UG_ButtonSetBackColor
+                0x00000000       0x32 ugui.o
+ .text.UG_ButtonSetAlternateForeColor
+                0x00000000       0x32 ugui.o
+ .text.UG_ButtonSetAlternateBackColor
+                0x00000000       0x32 ugui.o
+ .text.UG_ButtonSetText
+                0x00000000       0x32 ugui.o
+ .text.UG_ButtonSetFont
+                0x00000000       0x32 ugui.o
+ .text.UG_ButtonSetStyle
+                0x00000000       0x78 ugui.o
+ .text.UG_ButtonSetHSpace
+                0x00000000       0x2a ugui.o
+ .text.UG_ButtonSetVSpace
+                0x00000000       0x2a ugui.o
+ .text.UG_ButtonSetAlignment
+                0x00000000       0x2a ugui.o
+ .text.UG_ButtonGetForeColor
+                0x00000000       0x22 ugui.o
+ .text.UG_ButtonGetBackColor
+                0x00000000       0x22 ugui.o
+ .text.UG_ButtonGetAlternateForeColor
+                0x00000000       0x22 ugui.o
+ .text.UG_ButtonGetAlternateBackColor
+                0x00000000       0x22 ugui.o
+ .text.UG_ButtonGetText
+                0x00000000       0x22 ugui.o
+ .text.UG_ButtonGetFont
+                0x00000000       0x22 ugui.o
+ .text.UG_ButtonGetStyle
+                0x00000000       0x1e ugui.o
+ .text.UG_ButtonGetHSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_ButtonGetVSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_ButtonGetAlignment
+                0x00000000       0x1e ugui.o
+ .text.UG_CheckboxCreate
+                0x00000000       0xf0 ugui.o
+ .text.UG_CheckboxDelete
+                0x00000000        0xa ugui.o
+ .text.UG_CheckboxShow
+                0x00000000       0x1c ugui.o
+ .text.UG_CheckboxHide
+                0x00000000       0x2c ugui.o
+ .text.UG_CheckboxSetCheched
+                0x00000000       0x2a ugui.o
+ .text.UG_CheckboxSetForeColor
+                0x00000000       0x32 ugui.o
+ .text.UG_CheckboxSetBackColor
+                0x00000000       0x32 ugui.o
+ .text.UG_CheckboxSetAlternateForeColor
+                0x00000000       0x32 ugui.o
+ .text.UG_CheckboxSetAlternateBackColor
+                0x00000000       0x32 ugui.o
+ .text.UG_CheckboxSetText
+                0x00000000       0x32 ugui.o
+ .text.UG_CheckboxSetFont
+                0x00000000       0x32 ugui.o
+ .text.UG_CheckboxSetStyle
+                0x00000000       0x78 ugui.o
+ .text.UG_CheckboxSetHSpace
+                0x00000000       0x2a ugui.o
+ .text.UG_CheckboxSetVSpace
+                0x00000000       0x2a ugui.o
+ .text.UG_CheckboxSetAlignment
+                0x00000000       0x2a ugui.o
+ .text.UG_CheckboxGetChecked
+                0x00000000       0x1e ugui.o
+ .text.UG_CheckboxGetForeColor
+                0x00000000       0x22 ugui.o
+ .text.UG_CheckboxGetBackColor
+                0x00000000       0x22 ugui.o
+ .text.UG_CheckboxGetAlternateForeColor
+                0x00000000       0x22 ugui.o
+ .text.UG_CheckboxGetAlternateBackColor
+                0x00000000       0x22 ugui.o
+ .text.UG_CheckboxGetText
+                0x00000000       0x22 ugui.o
+ .text.UG_CheckboxGetFont
+                0x00000000       0x22 ugui.o
+ .text.UG_CheckboxGetStyle
+                0x00000000       0x1e ugui.o
+ .text.UG_CheckboxGetHSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_CheckboxGetVSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_CheckboxGetAlignment
+                0x00000000       0x1e ugui.o
+ .text.UG_TextboxCreate
+                0x00000000       0xd2 ugui.o
+ .text.UG_TextboxDelete
+                0x00000000        0xa ugui.o
+ .text.UG_TextboxShow
+                0x00000000       0x1c ugui.o
+ .text.UG_TextboxHide
+                0x00000000       0x1e ugui.o
+ .text.UG_TextboxSetForeColor
+                0x00000000       0x32 ugui.o
+ .text.UG_TextboxSetBackColor
+                0x00000000       0x32 ugui.o
+ .text.UG_TextboxSetText
+                0x00000000       0x2e ugui.o
+ .text.UG_TextboxSetFont
+                0x00000000       0x32 ugui.o
+ .text.UG_TextboxSetHSpace
+                0x00000000       0x2a ugui.o
+ .text.UG_TextboxSetVSpace
+                0x00000000       0x2a ugui.o
+ .text.UG_TextboxSetAlignment
+                0x00000000       0x2a ugui.o
+ .text.UG_TextboxGetForeColor
+                0x00000000       0x22 ugui.o
+ .text.UG_TextboxGetBackColor
+                0x00000000       0x22 ugui.o
+ .text.UG_TextboxGetText
+                0x00000000       0x22 ugui.o
+ .text.UG_TextboxGetFont
+                0x00000000       0x22 ugui.o
+ .text.UG_TextboxGetHSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_TextboxGetVSpace
+                0x00000000       0x1e ugui.o
+ .text.UG_TextboxGetAlignment
+                0x00000000       0x1e ugui.o
+ .text.UG_ImageCreate
+                0x00000000       0x8e ugui.o
+ .text.UG_ImageDelete
+                0x00000000        0xa ugui.o
+ .text.UG_ImageShow
+                0x00000000       0x1c ugui.o
+ .text.UG_ImageHide
+                0x00000000       0x1e ugui.o
+ .text.UG_ImageSetBMP
+                0x00000000       0x36 ugui.o
+ .bss.msg.2867  0x00000000        0x6 ugui.o
+ .rodata.pal_checkbox_released
+                0x00000000       0x18 ugui.o
+ .rodata.pal_checkbox_pressed
+                0x00000000       0x18 ugui.o
+ .rodata.pal_button_released
+                0x00000000       0x18 ugui.o
+ .rodata.pal_button_pressed
+                0x00000000       0x18 ugui.o
+ .rodata.pal_window
+                0x00000000       0x18 ugui.o
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .data          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .bss           0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .text          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .data          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .bss           0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .text          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .data          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .bss           0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .text          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+ .data          0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+ .bss           0x00000000        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+LOAD ADconverter.o
+LOAD kbd.o
+LOAD Kite_indicators.o
+LOAD LCD_Ili9341.o
+LOAD main.o
+LOAD systime.o
+LOAD ugui.o
+START GROUP
+LOAD d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x7fb4
+ *(.vectors)
+ .vectors       0x00000000       0xb4 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table._UG_PutChar
+                0x000000b4       0x9a ugui.o
+                0x0000014e                . = ALIGN (0x2)
+                0x0000014e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000014e        0x0 linker stubs
+ *(.trampolines*)
+                0x0000014e                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.font_24x40R
+                0x0000014e     0x2d00 ugui.o
+                0x0000014e                font_24x40R
+ .progmem.data.font_16x26R
+                0x00002e4e     0x1380 ugui.o
+                0x00002e4e                font_16x26R
+ .progmem.data.font_12x20R
+                0x000041ce      0xf00 ugui.o
+                0x000041ce                font_12x20R
+ .progmem.data.font_8x12R
+                0x000050ce      0x480 ugui.o
+                0x000050ce                font_8x12R
+                0x0000554e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000554e                __ctors_start = .
+ *(.ctors)
+                0x0000554e                __ctors_end = .
+                0x0000554e                __dtors_start = .
+ *(.dtors)
+                0x0000554e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000554e        0x0 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+                0x0000554e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000554e        0xc D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000555a       0x16 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x0000555a                __do_copy_data
+ .init4         0x00005570       0x10 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00005570                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00005580        0x8 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ *(.init9)
+ *(.text)
+ .text          0x00005588        0x4 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+                0x00005588                __vector_38
+                0x00005588                __vector_22
+                0x00005588                __vector_28
+                0x00005588                __vector_1
+                0x00005588                __vector_32
+                0x00005588                __vector_34
+                0x00005588                __vector_24
+                0x00005588                __vector_12
+                0x00005588                __bad_interrupt
+                0x00005588                __vector_6
+                0x00005588                __vector_31
+                0x00005588                __vector_35
+                0x00005588                __vector_39
+                0x00005588                __vector_3
+                0x00005588                __vector_23
+                0x00005588                __vector_30
+                0x00005588                __vector_25
+                0x00005588                __vector_11
+                0x00005588                __vector_13
+                0x00005588                __vector_17
+                0x00005588                __vector_19
+                0x00005588                __vector_7
+                0x00005588                __vector_41
+                0x00005588                __vector_43
+                0x00005588                __vector_27
+                0x00005588                __vector_5
+                0x00005588                __vector_33
+                0x00005588                __vector_37
+                0x00005588                __vector_4
+                0x00005588                __vector_44
+                0x00005588                __vector_9
+                0x00005588                __vector_2
+                0x00005588                __vector_21
+                0x00005588                __vector_15
+                0x00005588                __vector_36
+                0x00005588                __vector_29
+                0x00005588                __vector_40
+                0x00005588                __vector_8
+                0x00005588                __vector_26
+                0x00005588                __vector_10
+                0x00005588                __vector_16
+                0x00005588                __vector_18
+                0x00005588                __vector_20
+                0x00005588                __vector_42
+                0x0000558c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_Init
+                0x0000558c       0x2a ADconverter.o
+                0x0000558c                ADC_Init
+ .text.ADC_SelectChannel
+                0x000055b6       0x5e ADconverter.o
+                0x000055b6                ADC_SelectChannel
+ .text.ADC_Read
+                0x00005614       0x1a ADconverter.o
+                0x00005614                ADC_Read
+ .text.ADC_ReadChannel
+                0x0000562e       0x12 ADconverter.o
+                0x0000562e                ADC_ReadChannel
+ .text.JOY_read_axis
+                0x00005640       0x46 ADconverter.o
+                0x00005640                JOY_read_axis
+ .text.KBD_Init
+                0x00005686        0xe kbd.o
+                0x00005686                KBD_Init
+ .text.KBD_Read
+                0x00005694       0x6c kbd.o
+                0x00005694                KBD_Read
+ .text.KBD_GetKey
+                0x00005700        0xa kbd.o
+                0x00005700                KBD_GetKey
+ .text.OFF_All_Kite_Indicator_A
+                0x0000570a       0xae Kite_indicators.o
+                0x0000570a                OFF_All_Kite_Indicator_A
+ .text.OFF_All_Kite_Indicator_B
+                0x000057b8       0xae Kite_indicators.o
+                0x000057b8                OFF_All_Kite_Indicator_B
+ .text.OFF_All_Kite_Indicator
+                0x00005866      0x1ee Kite_indicators.o
+                0x00005866                OFF_All_Kite_Indicator
+ .text.OFF_All_Kite_Indicator_A_2_8
+                0x00005a54       0x9a Kite_indicators.o
+                0x00005a54                OFF_All_Kite_Indicator_A_2_8
+ .text.OFF_All_Kite_Indicator_B_2_8
+                0x00005aee       0x9a Kite_indicators.o
+                0x00005aee                OFF_All_Kite_Indicator_B_2_8
+ .text.OFF_All_Kite_Indicator_B_3_8
+                0x00005b88       0x86 Kite_indicators.o
+                0x00005b88                OFF_All_Kite_Indicator_B_3_8
+ .text.LCD_putchar
+                0x00005c0e       0x24 LCD_Ili9341.o
+                0x00005c0e                LCD_putchar
+ .text.ILI9341_InitSPI
+                0x00005c32       0x18 LCD_Ili9341.o
+                0x00005c32                ILI9341_InitSPI
+ .text.ILI9341_SPIwrite
+                0x00005c4a        0xc LCD_Ili9341.o
+                0x00005c4a                ILI9341_SPIwrite
+ .text.ILI9341_WriteCommand
+                0x00005c56        0xc LCD_Ili9341.o
+                0x00005c56                ILI9341_WriteCommand
+ .text.ILI9341_WriteData
+                0x00005c62        0xc LCD_Ili9341.o
+                0x00005c62                ILI9341_WriteData
+ .text.ILI9341_setRotation
+                0x00005c6e       0xa4 LCD_Ili9341.o
+                0x00005c6e                ILI9341_setRotation
+ .text.ILI9341_Init
+                0x00005d12       0x72 LCD_Ili9341.o
+                0x00005d12                ILI9341_Init
+ .text.ILI9341_setAddrWindow
+                0x00005d84       0x74 LCD_Ili9341.o
+                0x00005d84                ILI9341_setAddrWindow
+ .text._HW_SetArea_
+                0x00005df8        0x6 LCD_Ili9341.o
+                0x00005df8                _HW_SetArea_
+ .text.ILI9341_pushColor
+                0x00005dfe       0x1a LCD_Ili9341.o
+                0x00005dfe                ILI9341_pushColor
+ .text._HW_PushPixel
+                0x00005e18        0x6 LCD_Ili9341.o
+                0x00005e18                _HW_PushPixel
+ .text.ILI9341_drawPixel
+                0x00005e1e       0x54 LCD_Ili9341.o
+                0x00005e1e                ILI9341_drawPixel
+ .text.UserPixelSetFunction
+                0x00005e72        0x6 LCD_Ili9341.o
+                0x00005e72                UserPixelSetFunction
+ .text.ILI9341_fillRect
+                0x00005e78       0xb6 LCD_Ili9341.o
+                0x00005e78                ILI9341_fillRect
+ .text._HW_FillFrame_
+                0x00005f2e       0x18 LCD_Ili9341.o
+                0x00005f2e                _HW_FillFrame_
+ .text.LCD_Init
+                0x00005f46       0xb6 LCD_Ili9341.o
+                0x00005f46                LCD_Init
+ .text.Init_IO  0x00005ffc       0x2e main.o
+                0x00005ffc                Init_IO
+ .text.start_screen
+                0x0000602a       0x74 main.o
+                0x0000602a                start_screen
+ .text.unit     0x0000609e       0x38 main.o
+                0x0000609e                unit
+ .text.UI_show_value_at_XY
+                0x000060d6       0xaa main.o
+                0x000060d6                UI_show_value_at_XY
+ .text.Universal_kite
+                0x00006180      0x368 main.o
+                0x00006180                Universal_kite
+ .text.Kite_Screen
+                0x000064e8       0x54 main.o
+                0x000064e8                Kite_Screen
+ .text.joystick
+                0x0000653c      0x11e main.o
+                0x0000653c                joystick
+ .text.menu     0x0000665a      0x1c8 main.o
+                0x0000665a                menu
+ .text.show_wind
+                0x00006822       0xec main.o
+                0x00006822                show_wind
+ .text.main     0x0000690e       0x1e main.o
+                0x0000690e                main
+ .text.__vector_14
+                0x0000692c       0x54 systime.o
+                0x0000692c                __vector_14
+ .text.Systime_Init
+                0x00006980       0x12 systime.o
+                0x00006980                Systime_Init
+ .text.UG_Init  0x00006992       0xa0 ugui.o
+                0x00006992                UG_Init
+ .text.UG_FontSelect
+                0x00006a32       0x18 ugui.o
+                0x00006a32                UG_FontSelect
+ .text.UG_FillFrame
+                0x00006a4a       0xc0 ugui.o
+                0x00006a4a                UG_FillFrame
+ .text.UG_DrawArc
+                0x00006b0a      0x266 ugui.o
+                0x00006b0a                UG_DrawArc
+ .text.UG_DrawLine
+                0x00006d70      0x174 ugui.o
+                0x00006d70                UG_DrawLine
+ .text.UG_DrawRoundFrame
+                0x00006ee4       0xf6 ugui.o
+                0x00006ee4                UG_DrawRoundFrame
+ .text.UG_ConsoleSetArea
+                0x00006fda       0x1a ugui.o
+                0x00006fda                UG_ConsoleSetArea
+ .text.UG_ConsoleSetForecolor
+                0x00006ff4        0xe ugui.o
+                0x00006ff4                UG_ConsoleSetForecolor
+ .text.UG_ConsoleSetBackcolor
+                0x00007002        0xe ugui.o
+                0x00007002                UG_ConsoleSetBackcolor
+ .text.UG_SetForecolor
+                0x00007010        0xe ugui.o
+                0x00007010                UG_SetForecolor
+ .text._UG_PutChar
+                0x0000701e      0x6c4 ugui.o
+                0x0000701e                _UG_PutChar
+ .text.UG_PutChar
+                0x000076e2       0x24 ugui.o
+                0x000076e2                UG_PutChar
+ .text.UG_PutString
+                0x00007706       0xda ugui.o
+                0x00007706                UG_PutString
+ .text.UG_ConsolePutString
+                0x000077e0       0xf8 ugui.o
+                0x000077e0                UG_ConsolePutString
+ .text.UG_DriverRegister
+                0x000078d8       0x28 ugui.o
+                0x000078d8                UG_DriverRegister
+ .text.UG_DriverEnable
+                0x00007900       0x2e ugui.o
+                0x00007900                UG_DriverEnable
+ .text.libgcc.div
+                0x0000792e       0x28 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x0000792e                _div
+                0x0000792e                __divmodhi4
+ .text.libgcc   0x00007956        0xc d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00007956                __tablejump2__
+ .text.libgcc.div
+                0x00007962       0x28 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00007962                __udivmodhi4
+ .text.avr-libc
+                0x0000798a       0x44 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                0x0000798a                sprintf
+ .text.avr-libc
+                0x000079ce      0x3c2 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x000079ce                vfprintf
+ .text.avr-libc
+                0x00007d90       0x16 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00007d90                strnlen_P
+ .text.avr-libc
+                0x00007da6       0x16 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00007da6                strnlen
+ .text.avr-libc
+                0x00007dbc       0x78 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00007dbc                fputc
+ .text.avr-libc
+                0x00007e34       0xbc d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00007e34                __ultoa_invert
+ .text.avr-libc
+                0x00007ef0        0xc D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+                0x00007ef0                eeprom_read_word
+ .text.avr-libc
+                0x00007efc        0xa D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+                0x00007efc                eeprom_write_word
+ .text.avr-libc
+                0x00007f06       0x20 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+                0x00007f06                eeprom_read_block
+                0x00007f0a                eeprom_read_blraw
+ .text.avr-libc
+                0x00007f26       0x1c D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+                0x00007f26                eeprom_write_byte
+                0x00007f28                eeprom_write_r18
+ .text.libgcc.prologue
+                0x00007f42       0x38 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x00007f42                __prologue_saves__
+ .text.libgcc.prologue
+                0x00007f7a       0x36 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x00007f7a                __epilogue_restores__
+                0x00007fb0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00007fb0        0x0 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00007fb0                _exit
+                0x00007fb0                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00007fb0        0x4 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00007fb4                _etext = .
+
+.data           0x00800100       0xa4 load address 0x00007fb4
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.LCD_stream
+                0x00800100        0xe LCD_Ili9341.o
+                0x00800100                LCD_stream
+ .data.ILI9341_height
+                0x0080010e        0x2 LCD_Ili9341.o
+                0x0080010e                ILI9341_height
+ .data.ILI9341_width
+                0x00800110        0x2 LCD_Ili9341.o
+                0x00800110                ILI9341_width
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800112       0x5d main.o
+                                 0x65 (size before relaxing)
+ .rodata.RFONT_24X40
+                0x0080016f        0xd ugui.o
+                0x0080016f                RFONT_24X40
+ .rodata.RFONT_16X26
+                0x0080017c        0xd ugui.o
+                0x0080017c                RFONT_16X26
+ .rodata.RFONT_12X20
+                0x00800189        0xd ugui.o
+                0x00800189                RFONT_12X20
+ .rodata.RFONT_8X12
+                0x00800196        0xd ugui.o
+                0x00800196                RFONT_8X12
+ *(.gnu.linkonce.r*)
+                0x008001a4                . = ALIGN (0x2)
+ *fill*         0x008001a3        0x1 
+                0x008001a4                _edata = .
+                0x008001a4                PROVIDE (__data_end, .)
+
+.bss            0x008001a4       0x60
+                0x008001a4                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.oldD.1624
+                0x008001a4        0x1 kbd.o
+ .bss.joy_state.3031
+                0x008001a5        0x2 main.o
+ .bss.joy_old_state.3032
+                0x008001a7        0x2 main.o
+ .bss.joy_new_state.3033
+                0x008001a9        0x2 main.o
+ .bss.state.2992
+                0x008001ab        0x2 main.o
+ .bss.gui       0x008001ad        0x2 ugui.o
+ *(COMMON)
+ COMMON         0x008001af        0x2 ADconverter.o
+                0x008001af                key
+ COMMON         0x008001b1        0x2 kbd.o
+                0x008001b1                lastkey
+                0x008001b2                lastreleased
+ COMMON         0x008001b3       0x44 LCD_Ili9341.o
+                0x008001b3                ILI9341_rotation
+                0x008001b4                gui
+ COMMON         0x008001f7        0x2 main.o
+                0x008001f7                wind
+ COMMON         0x008001f9        0x5 systime.o
+                0x008001f9                TIME_STATUS
+                0x008001fa                systick
+ COMMON         0x008001fe        0x6 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x008001fe                __iob
+                0x00800204                PROVIDE (__bss_end, .)
+                0x00007fb4                __data_load_start = LOADADDR (.data)
+                0x00008058                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800204        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800204                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 ADconverter.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 kbd.o
+ .comment       0x00000030       0x31 Kite_indicators.o
+ .comment       0x00000030       0x31 LCD_Ili9341.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 systime.o
+ .comment       0x00000030       0x31 ugui.o
+ .comment       0x00000030       0x31 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000030       0x31 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .comment       0x00000030       0x2c d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 d:/programi/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x858
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 ADconverter.o
+ .debug_aranges
+                0x00000040       0x50 kbd.o
+ .debug_aranges
+                0x00000090       0x50 Kite_indicators.o
+ .debug_aranges
+                0x000000e0       0xc0 LCD_Ili9341.o
+ .debug_aranges
+                0x000001a0       0x78 main.o
+ .debug_aranges
+                0x00000218       0x60 systime.o
+ .debug_aranges
+                0x00000278      0x560 ugui.o
+ .debug_aranges
+                0x000007d8       0x20 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .debug_aranges
+                0x000007f8       0x20 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .debug_aranges
+                0x00000818       0x20 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .debug_aranges
+                0x00000838       0x20 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xc29b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x8ea D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_info    0x000008ea      0x226 ADconverter.o
+ .debug_info    0x00000b10      0x1ca kbd.o
+ .debug_info    0x00000cda     0x1399 Kite_indicators.o
+ .debug_info    0x00002073     0x154e LCD_Ili9341.o
+ .debug_info    0x000035c1     0x196d main.o
+ .debug_info    0x00004f2e      0x40f systime.o
+ .debug_info    0x0000533d     0x6cf1 ugui.o
+ .debug_info    0x0000c02e       0x9b D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .debug_info    0x0000c0c9       0x9b D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .debug_info    0x0000c164       0x9c D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .debug_info    0x0000c200       0x9b D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+
+.debug_abbrev   0x00000000     0x16b0
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x86e D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_abbrev  0x0000086e      0x154 ADconverter.o
+ .debug_abbrev  0x000009c2       0xea kbd.o
+ .debug_abbrev  0x00000aac       0x7a Kite_indicators.o
+ .debug_abbrev  0x00000b26      0x375 LCD_Ili9341.o
+ .debug_abbrev  0x00000e9b      0x335 main.o
+ .debug_abbrev  0x000011d0      0x1c1 systime.o
+ .debug_abbrev  0x00001391      0x2cf ugui.o
+ .debug_abbrev  0x00001660       0x14 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .debug_abbrev  0x00001674       0x14 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .debug_abbrev  0x00001688       0x14 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .debug_abbrev  0x0000169c       0x14 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+
+.debug_line     0x00000000     0x5495
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1a5 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_line    0x000001a5      0x1f1 ADconverter.o
+ .debug_line    0x00000396      0x1de kbd.o
+ .debug_line    0x00000574      0x273 Kite_indicators.o
+ .debug_line    0x000007e7      0x6c9 LCD_Ili9341.o
+ .debug_line    0x00000eb0      0x699 main.o
+ .debug_line    0x00001549      0x31e systime.o
+ .debug_line    0x00001867     0x3a23 ugui.o
+ .debug_line    0x0000528a       0x67 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_word.o)
+ .debug_line    0x000052f1       0x5b D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_word.o)
+ .debug_line    0x0000534c       0xab D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eerd_block.o)
+ .debug_line    0x000053f7       0x9e D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5\libatmega328pb.a(eewr_byte.o)
+
+.debug_frame    0x00000000     0x1b24
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x64 ADconverter.o
+ .debug_frame   0x00000064       0x84 kbd.o
+ .debug_frame   0x000000e8       0xd8 Kite_indicators.o
+ .debug_frame   0x000001c0      0x238 LCD_Ili9341.o
+ .debug_frame   0x000003f8      0x164 main.o
+ .debug_frame   0x0000055c      0x164 systime.o
+ .debug_frame   0x000006c0     0x1464 ugui.o
+
+.debug_str      0x00000000     0x1ad6
+ *(.debug_str)
+ .debug_str     0x00000000      0x318 D:/programi/7.0/Packs/Atmel/ATmega_DFP/1.4.331/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_str     0x00000318      0x1fa ADconverter.o
+                                0x238 (size before relaxing)
+ .debug_str     0x00000512       0x91 kbd.o
+                                0x21b (size before relaxing)
+ .debug_str     0x000005a3       0xdd Kite_indicators.o
+                                0x257 (size before relaxing)
+ .debug_str     0x00000680      0x481 LCD_Ili9341.o
+                                0x6a8 (size before relaxing)
+ .debug_str     0x00000b01      0x14a main.o
+                                0x4cb (size before relaxing)
+ .debug_str     0x00000c4b       0xe9 systime.o
+                                0x284 (size before relaxing)
+ .debug_str     0x00000d34      0xda2 ugui.o
+                               0x1278 (size before relaxing)
+
+.debug_loc      0x00000000     0xc93c
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x13e ADconverter.o
+ .debug_loc     0x0000013e       0xa1 kbd.o
+ .debug_loc     0x000001df      0x149 Kite_indicators.o
+ .debug_loc     0x00000328      0xc3d LCD_Ili9341.o
+ .debug_loc     0x00000f65      0x44d main.o
+ .debug_loc     0x000013b2      0x540 systime.o
+ .debug_loc     0x000018f2     0xb04a ugui.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x768
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x30 ADconverter.o
+ .debug_ranges  0x00000030       0x40 kbd.o
+ .debug_ranges  0x00000070       0x40 Kite_indicators.o
+ .debug_ranges  0x000000b0       0xb0 LCD_Ili9341.o
+ .debug_ranges  0x00000160       0x68 main.o
+ .debug_ranges  0x000001c8       0x50 systime.o
+ .debug_ranges  0x00000218      0x550 ugui.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(GccApplication_Merilnik_Vetra.elf elf32-avr)
+LOAD linker stubs
